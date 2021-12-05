@@ -1,0 +1,34 @@
+.profile {
+  box-shadow: 4px 4px 8px 0px rgba(34, 60, 80, 0.2);
+  width: 400px;
+  text-align: center;
+}
+.description {
+  box-shadow: 4px 4px 8px 0px rgba(34, 60, 80, 0.2);
+}
+.name {
+  font-weight: 500;
+}
+.avatar {
+  width: 100px;
+}
+.tag {
+  font-style: italic;
+}
+.stats {
+  margin: 0;
+  padding: 15px;
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+}
+.location {
+  font-weight: 400;
+}
+
+.label {
+  font-weight: 400;
+}
+.quantity {
+  font-weight: 500;
+}
